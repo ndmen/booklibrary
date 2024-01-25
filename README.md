@@ -1,6 +1,6 @@
 # Book Library 
 
-This project involves developing a RESTful API for managing a book library with roles and error handling. The API will be built using Node.js, Express, and Sequelize, providing different access levels for users based on their roles, and including error handling.
+This project involves developing a RESTful API for managing a book library with roles and error handling. The API built using Node.js, Express, and Sequelize, providing different access levels for users based on their roles, and including error handling.
 
 
 Data Models:
@@ -27,7 +27,7 @@ Implementation of middleware for error handling and logging.
 Properly returning errors to clients (e.g., 404 for nonexistent resources, 403 for forbidden access).
 
 Documentation:
-Preparation of API documentation, possibly using Swagger.
+Preparation of API documentation using Swagger.
 
 ![image](https://i.ibb.co/n32jv4s/Screenshot-from-2024-01-25-12-32-56.png)
 
